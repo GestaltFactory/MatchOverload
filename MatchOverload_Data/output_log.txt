@@ -1,0 +1,42 @@
+Initialize engine version: 4.2.2f1 (54f0fc09defb)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 30.0.15.1215]
+    Renderer: NVIDIA GeForce GTX 960
+    Vendor:   NVIDIA
+    VRAM:     2007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.443 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.289400 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 168.
+Total: 0.701800 ms (FindLiveObjects: 0.007600 ms CreateObjectMapping: 0.010800 ms MarkObjects: 0.053000 ms  DeleteObjects: 0.049700 ms)
+
+UnloadTime: 0.317600 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 167.
+Total: 0.710900 ms (FindLiveObjects: 0.006000 ms CreateObjectMapping: 0.008700 ms MarkObjects: 0.061100 ms  DeleteObjects: 0.061100 ms)
+
+UnloadTime: 0.295500 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 0.662700 ms (FindLiveObjects: 0.011600 ms CreateObjectMapping: 0.014500 ms MarkObjects: 0.058300 ms  DeleteObjects: 0.042200 ms)
+
+Platform assembly: D:\Users\Yannick\Desktop\Portfolio\projects\Unity\Boris\Projet DESS\Match overload\MatchOverload_Data\Managed\Boo.Lang.dll (this message is harmless)
